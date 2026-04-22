@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\CleanArchitectureSimple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|c:\\project\\cleanarchitecturesimple\\webapi\\extensions\\dependencyinjection\\automapperdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\dependencyinjection\\automapperdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|c:\\project\\cleanarchitecturesimple\\webapi\\extensions\\dependencyinjection\\infrastructuredependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\dependencyinjection\\infrastructuredependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|c:\\project\\cleanarchitecturesimple\\webapi\\extensions\\dependencyinjection\\applicationdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\dependencyinjection\\applicationdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94604151-32B0-4234-944E-945EF891DC88}|Infrastructure\\Infrastructure.csproj|c:\\project\\cleanarchitecturesimple\\infrastructure\\repositories\\spendingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94604151-32B0-4234-944E-945EF891DC88}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\spendingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB084D1-C3F0-4C72-9852-E6B8E9226596}|Application\\Application.csproj|c:\\project\\cleanarchitecturesimple\\application\\interfaces\\ispendingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB084D1-C3F0-4C72-9852-E6B8E9226596}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ispendingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB084D1-C3F0-4C72-9852-E6B8E9226596}|Application\\Application.csproj|c:\\project\\cleanarchitecturesimple\\application\\services\\spendingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB084D1-C3F0-4C72-9852-E6B8E9226596}|Application\\Application.csproj|solutionrelative:application\\services\\spendingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|c:\\project\\cleanarchitecturesimple\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|c:\\project\\cleanarchitecturesimple\\webapi\\controllers\\spendingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\spendingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB084D1-C3F0-4C72-9852-E6B8E9226596}|Application\\Application.csproj|c:\\project\\cleanarchitecturesimple\\application\\common\\mappings\\spendingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB084D1-C3F0-4C72-9852-E6B8E9226596}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\spendingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB084D1-C3F0-4C72-9852-E6B8E9226596}|Application\\Application.csproj|c:\\project\\cleanarchitecturesimple\\application\\common\\mappings\\applicationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB084D1-C3F0-4C72-9852-E6B8E9226596}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\applicationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD95201-4335-4248-AA37-F555D03613EB}|Domain\\Domain.csproj|c:\\project\\cleanarchitecturesimple\\domain\\entities\\spending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD95201-4335-4248-AA37-F555D03613EB}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\spending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|c:\\project\\cleanarchitecturesimple\\webapi\\common\\mappings\\spendingapiprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|solutionrelative:webapi\\common\\mappings\\spendingapiprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94604151-32B0-4234-944E-945EF891DC88}|Infrastructure\\Infrastructure.csproj|c:\\project\\cleanarchitecturesimple\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94604151-32B0-4234-944E-945EF891DC88}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|c:\\project\\cleanarchitecturesimple\\webapi\\model\\createspendingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|solutionrelative:webapi\\model\\createspendingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB084D1-C3F0-4C72-9852-E6B8E9226596}|Application\\Application.csproj|c:\\project\\cleanarchitecturesimple\\application\\dtos\\createspendingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB084D1-C3F0-4C72-9852-E6B8E9226596}|Application\\Application.csproj|solutionrelative:application\\dtos\\createspendingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB084D1-C3F0-4C72-9852-E6B8E9226596}|Application\\Application.csproj|c:\\project\\cleanarchitecturesimple\\application\\dtos\\spendingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB084D1-C3F0-4C72-9852-E6B8E9226596}|Application\\Application.csproj|solutionrelative:application\\dtos\\spendingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|c:\\project\\cleanarchitecturesimple\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FECB4373-D1EA-47F3-8F63-DCA4D7418642}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Extensions\\DependencyInjection\\AutoMapperDependencyInjection.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\DependencyInjection\\AutoMapperDependencyInjection.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Extensions\\DependencyInjection\\AutoMapperDependencyInjection.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\DependencyInjection\\AutoMapperDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T06:50:52.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfrastructureDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Extensions\\DependencyInjection\\InfrastructureDependencyInjection.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\DependencyInjection\\InfrastructureDependencyInjection.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Extensions\\DependencyInjection\\InfrastructureDependencyInjection.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\DependencyInjection\\InfrastructureDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T06:47:42.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Extensions\\DependencyInjection\\ApplicationDependencyInjection.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\DependencyInjection\\ApplicationDependencyInjection.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Extensions\\DependencyInjection\\ApplicationDependencyInjection.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\DependencyInjection\\ApplicationDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T06:44:36.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:37:10.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpendingController.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Controllers\\SpendingController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\SpendingController.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Controllers\\SpendingController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\SpendingController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:35:45.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpendingService.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\Application\\Services\\SpendingService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\SpendingService.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\Application\\Services\\SpendingService.cs",
+              "RelativeToolTip": "Application\\Services\\SpendingService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T03:02:47.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISpendingRepository.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\Application\\Interfaces\\ISpendingRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ISpendingRepository.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\Application\\Interfaces\\ISpendingRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ISpendingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:14:51.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpendingRepository.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\Infrastructure\\Repositories\\SpendingRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\SpendingRepository.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\Infrastructure\\Repositories\\SpendingRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\SpendingRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T03:17:10.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpendingProfile.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\Application\\Common\\Mappings\\SpendingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Mappings\\SpendingProfile.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\Application\\Common\\Mappings\\SpendingProfile.cs",
+              "RelativeToolTip": "Application\\Common\\Mappings\\SpendingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:03:28.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationProfile.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\Application\\Common\\Mappings\\ApplicationProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Mappings\\ApplicationProfile.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\Application\\Common\\Mappings\\ApplicationProfile.cs",
+              "RelativeToolTip": "Application\\Common\\Mappings\\ApplicationProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:21:08.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpendingApiProfile.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Common\\Mappings\\SpendingApiProfile.cs",
+              "RelativeDocumentMoniker": "WebApi\\Common\\Mappings\\SpendingApiProfile.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Common\\Mappings\\SpendingApiProfile.cs",
+              "RelativeToolTip": "WebApi\\Common\\Mappings\\SpendingApiProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:09:15.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-22T04:37:55.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateSpendingRequest.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Model\\CreateSpendingRequest.cs",
+              "RelativeDocumentMoniker": "WebApi\\Model\\CreateSpendingRequest.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\WebApi\\Model\\CreateSpendingRequest.cs",
+              "RelativeToolTip": "WebApi\\Model\\CreateSpendingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:28:31.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Spending.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\Domain\\Entities\\Spending.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Spending.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\Domain\\Entities\\Spending.cs",
+              "RelativeToolTip": "Domain\\Entities\\Spending.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:10:53.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateSpendingDto.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\Application\\DTOs\\CreateSpendingDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CreateSpendingDto.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\Application\\DTOs\\CreateSpendingDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\CreateSpendingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:23:46.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SpendingDto.cs",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\Application\\DTOs\\SpendingDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\SpendingDto.cs",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\Application\\DTOs\\SpendingDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\SpendingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T04:24:27.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Project\\CleanArchitectureSimple\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Project\\CleanArchitectureSimple\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T16:46:16.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

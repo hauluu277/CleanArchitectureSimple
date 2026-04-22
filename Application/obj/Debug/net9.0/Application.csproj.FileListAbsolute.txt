@@ -1,0 +1,15 @@
+C:\Project\CleanArchitectureSimple\Application\bin\Debug\net9.0\Application.deps.json
+C:\Project\CleanArchitectureSimple\Application\bin\Debug\net9.0\Application.dll
+C:\Project\CleanArchitectureSimple\Application\bin\Debug\net9.0\Application.pdb
+C:\Project\CleanArchitectureSimple\Application\bin\Debug\net9.0\Domain.dll
+C:\Project\CleanArchitectureSimple\Application\bin\Debug\net9.0\Domain.pdb
+C:\Project\CleanArchitectureSimple\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Project\CleanArchitectureSimple\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CleanArchitectureSimple\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Project\CleanArchitectureSimple\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Project\CleanArchitectureSimple\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Project\CleanArchitectureSimple\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Project\CleanArchitectureSimple\Application\obj\Debug\net9.0\Application.dll
+C:\Project\CleanArchitectureSimple\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Project\CleanArchitectureSimple\Application\obj\Debug\net9.0\Application.pdb
+C:\Project\CleanArchitectureSimple\Application\obj\Debug\net9.0\ref\Application.dll
